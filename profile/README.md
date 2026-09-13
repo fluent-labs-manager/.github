@@ -108,7 +108,7 @@
  
 | Слой | Технологии |
 |---|---|
-| Frontend | — |
+| Frontend | Vue + TS |
 | Backend | Kotlin Spring Boot |
 | База данных | Postgres, Redis |
 | Инфраструктура | Apache Kafka, Sentry, Prometheus & Grafana |
@@ -137,8 +137,12 @@
  
 ## Команда
  
-> _Раздел будет дополнен_
- 
+| Имя | Роль | GitHub |
+|---|---|---|
+| Алесия Ярулина | Frontend Dev | alesulkins |
+| Даниил Соловьев | Frontend Dev | kysnng |
+| Ульяна Горелова | Frontend Dev | Ulianaaaa |
+| Владимир Фокин | Backend Dev, DevOps | scobca |
 
 ---
  
